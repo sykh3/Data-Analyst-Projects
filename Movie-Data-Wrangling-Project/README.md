@@ -1,6 +1,6 @@
-## DAND Projects
+# DAND Projects (Udacity Course)
+
 ### Movie Industry Revenue Analysis (Python) 
-* **For:** Udacity Course
 * **Goal:** Identify which movie genres and popularity levels lead to the highest revenue.
 * **Skills:** Data Cleaning (Wrangling), Visualization (Seaborn/Matplotlib), Trend Analysis.
 * **Result:** Discovered that Family and Animation genres are the most consistent top-earners.
