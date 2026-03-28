@@ -1,4 +1,4 @@
-# DAND Projects
+# DAND Projects (Udacity Course)
 # Investigate a NICS Firearm Background Checks Dataset
 
 ## Project Overview
